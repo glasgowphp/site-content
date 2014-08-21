@@ -1,10 +1,10 @@
-/**meta
+----
 title:Upcoming Talk
 subtitle:Learn what's coming up:
 description:
 date:2014-08-13
 time:1830 (6:30PM)
-meta**/
+----
 
 ### We are looking for a main talk
 

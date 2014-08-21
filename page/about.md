@@ -1,9 +1,9 @@
-/**meta
+----
 title:About GlasgowPHP
 description: 
 date:2014-06-22
 hideMetaBox:1
-meta**/
+----
 
 #### The meetup
 Wonder what to expect? So do we! If pizza, beer and a great talk is 
