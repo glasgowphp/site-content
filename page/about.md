@@ -6,11 +6,18 @@ hideMetaBox:1
 ----
 
 #### The meetup
-Wonder what to expect? So do we! If pizza, beer and a great talk is 
-your thing come to our first gathering on 13th of August.
+Come and enjoy pizza, beer (or a soft drink) and a company of fellow programmers.  
+<br/>
+
+#### Agenda
+18:30 - Pizza & chat  
+19:15 - Talk/presentation  
+20:45 - Finish  
+<br/>
 
 #### Format
-We will have to see what works best as we go. Whether you want to give a full
-presentation, or have an idea for a lightning talk [give us a shout][1].
+There isn't a set format, so if you have an idea for a talk, workshop, katas
+or something altogether different [give us a shout][1].
+
 
 [1]:/becomeaspeaker
