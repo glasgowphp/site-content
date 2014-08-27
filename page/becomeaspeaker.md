@@ -13,9 +13,9 @@ with a slot.
 
 ### Speaker package
 
-We want to reward the time you put into preparing the talk/session and we have 
-prepared a small giftbag for our speakers. You can expect a GlasgowPHP t-shirt
-as well as a bottle of either foreign or locally sourced alcohol 
+We want to reward the time you put into preparing the talk/session. That's why
+we have a small giftbag for our speakers. You can expect a GlasgowPHP t-shirt
+as well as a bottle of either foreign or locally sourced alcoholic beverage
 (let us know if you prefere non-alcoholic option).
 
 {form}
