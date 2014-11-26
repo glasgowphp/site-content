@@ -5,6 +5,6 @@ date:2014-06-18
 hideMetaBox:1
 ----
 
-[![PLAINMOTIF](https://plainmotif.co.uk/images/tablet/plainmotif.png)][1]
+[![PLAINMOTIF](https://plainmotif.co.uk/skin/Munter/images/plainmotif.png)][1]
 
 [1]: https://plainmotif.co.uk
