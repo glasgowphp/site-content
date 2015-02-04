@@ -28,10 +28,10 @@ All attendees, speakers, sponsors and volunteers at our meetup are required to a
 **Need Help?**
 
 Enquiries and complaints of any type should be sent to either of these:  
- - hello [at] glasgowphp.co.uk  
- - [@glasgowphp][6]  
- - [@mgdm][4]  
- - [@strayobject][5]  
+- hello [at] glasgowphp.co.uk  
+- [@glasgowphp][6]  
+- [@mgdm][4]  
+- [@strayobject][5]  
 <br/>
 
 **Short Version**
