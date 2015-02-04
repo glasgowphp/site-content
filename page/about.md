@@ -18,6 +18,7 @@ Come and enjoy pizza, beer (or a soft drink) and a company of fellow programmers
 #### Format
 There isn't a set format, so if you have an idea for a talk, workshop, katas
 or something altogether different [give us a shout][1].
+<br/>
 
 #### Code of Conduct
 
@@ -26,10 +27,10 @@ All attendees, speakers, sponsors and volunteers at our meetup are required to a
 **Need Help?**
 
 Enquiries and complaints of any type should be sent to either of these:
- - hello [at] glasgowphp.co.uk
- - [@glasgowphp][6]
- - [@mgdm][4]
- - [@strayobject][5]
+ - hello [at] glasgowphp.co.uk  
+ - [@glasgowphp][6]  
+ - [@mgdm][4]  
+ - [@strayobject][5]  
 
 **Short Version**
 
@@ -52,7 +53,7 @@ GlasgowPHP organizers will be happy to help participants contact venue security 
 We expect participants to follow these rules at event venues and GlasgowPHP related social events.
 
 ----
-Our Code of Conduct was derived from [codeofconduct.org][2]
+Our Code of Conduct was derived from [codeofconduct.org][2]  
 License: [Creative Commons Attribution 3.0 Unported License][3]
 
 [1]:/becomeaspeaker
