@@ -22,7 +22,7 @@ or something altogether different [give us a shout][1].
 
 #### Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.  
+All attendees, speakers, sponsors and volunteers are bound by the following code of conduct. Lack of awareness is not an excuse. Organisers will enforce this code throughout the event and we are expecting cooperation from all participants to help ensuring a safe environment for everybody.  
 <br/>
 
 **Need Help?**
