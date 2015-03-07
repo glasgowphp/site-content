@@ -19,7 +19,7 @@ Current RFCs and PHP-FIG PSRs
 RESTfull APIs - Best Practices  
 Coping with burnout  
 
-*Practical*
+**Practical**  
 Furthermore, we are looking to do more hands on sessions, such as 
 katas and workshops involving peer programming. Suggested topics include:  
 <br/>
