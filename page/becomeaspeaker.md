@@ -9,7 +9,22 @@ hideMetaBox:1
 ### So you want to speak...
 
 Absolutely no problem! Let us know what's the topic and we will sort you out 
-with a slot.
+with a slot. If you are unsure about the subject, below you can find a few 
+general suggestions from the community.  
+<br/>
+BDD and DDD  
+AWS environment  
+Algorithms  
+Current RFCs and PHP-FIG PSRs
+RESTfull APIs - Best Practices  
+Coping with burnout  
+
+*Practical*
+Furthermore, we are looking to do more hands on sessions, such as 
+katas and workshops involving peer programming. Suggested topics include:  
+<br/>
+Deploying and migrating databases the right way  
+Refactoring old codebases  
 
 ### Speaker package
 
