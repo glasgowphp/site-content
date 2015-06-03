@@ -5,7 +5,7 @@ date:2015-06-03
 hideMetaBox:1
 ----
 
-[![STV](/content/media/image/saltstack-logo-small.png)][1]
+[![SaltStack](/content/media/image/saltstack-logo-small.png)][1]
 
 
 [1]: http://saltstack.com
