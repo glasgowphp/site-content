@@ -1,7 +1,7 @@
 ----
-title:Sponsor - Inviqa
+title:Sponsor - JetBrains
 description:One of our fantastic sponsors
-date:2015-02-20
+date:2015-04-20
 hideMetaBox:1
 ----
 
