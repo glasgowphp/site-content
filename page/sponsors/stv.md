@@ -6,7 +6,5 @@ hideMetaBox:1
 ----
 
 [![STV](/content/media/image/stv-logo-small.png)][1]  
-Looking to push your career forward?  
-[STV is hiring!][1]
 
-[1]: http://www.stvplc.tv/careers-content/product-development
+[1]: https://twitter.com/stvdigital
