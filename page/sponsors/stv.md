@@ -7,4 +7,4 @@ hideMetaBox:1
 
 [![STV](/content/media/image/stv-logo-small.png)][1]  
 
-[1]: https://twitter.com/stvdigital
+[1]: http://www.stv.tv/glasgowphp
