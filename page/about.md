@@ -29,9 +29,10 @@ All attendees, speakers, sponsors and volunteers are bound by the following code
 
 Enquiries and complaints of any type should be sent to either of these:  
 - hello [at] glasgowphp.co.uk  
-- [@glasgowphp][6]  
-- [@mgdm][4]  
+- [@glasgowphp][6]   
 - [@strayobject][5]  
+- [@ndedesigns][4]
+- [@elrossco22][7]
 <br/>
 
 **Short Version**
@@ -63,6 +64,7 @@ License: [Creative Commons Attribution 3.0 Unported License][3]
 [1]:/becomeaspeaker
 [2]:http://confcodeofconduct.com
 [3]:http://creativecommons.org/licenses/by/3.0/deed.en_GB
-[4]:https://twitter.com/mgdm
+[4]:https://twitter.com/ndedesigns
 [5]:https://twitter.com/strayobject
 [6]:https://twitter.com/glasgowphp
+[7]:https://twitter.com/elrossco22
