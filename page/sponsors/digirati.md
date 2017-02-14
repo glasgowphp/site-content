@@ -5,6 +5,6 @@ date:2017-02-14
 hideMetaBox:1
 ----
 
-[![Digirati](http://digirati.com/media/1001/digirati_logo.png)][1]  
+[![Digirati](/content/media/image/digirati-logo-white.svg)][1]  
 
 [1]: http://digirati.com
