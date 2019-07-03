@@ -7,4 +7,4 @@ hideMetaBox:1
 
 [![Markup](/content/media/image/markup-small.png)][1]  
 
-[1]: http://www.usemarkup.com
+[1]: https://www.usemarkup.com
